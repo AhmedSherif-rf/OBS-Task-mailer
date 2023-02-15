@@ -21,7 +21,7 @@ or
 sh mailer.sh
 or 
 bash mailer.sh
-
+```
 ## secondly the Python Script
 #### Clone the Repo
 ```
